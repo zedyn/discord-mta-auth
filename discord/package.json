@@ -1,0 +1,17 @@
+{
+    "name": "discordauth",
+    "version": "0.0.1",
+    "description": "Discord Auth is a streamlined script for seamless integration of Discord accounts with MTA game servers.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node .",
+        "dev": "node . --watch"
+    },
+    "author": "zédyN",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "discord.js": "^14.14.1",
+        "mysql2": "^3.9.2"
+    }
+}

@@ -1,0 +1,13 @@
+<meta>
+    <info author="zédyN" version="0.0.1" name="Discord Auth" description="Discord Auth is a streamlined script for seamless integration of Discord accounts with MTA game servers."/>
+
+    <config type="server" src="config.xml" />
+
+    <script src="client/auth.lua" type="client" cache="false" />
+    <script src="client/unauth.lua" type="client" cache="false" />
+
+    <script src="server/handleController.lua" type="server" />
+    <script src="server/handleDataSave.lua" type="server" />
+    <script src="server/handleDiscordInfo.lua" type="server" />
+    <script src="server/handleUnauth.lua" type="server" />
+</meta>
