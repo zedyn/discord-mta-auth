@@ -9,15 +9,15 @@ Discord Auth is a streamlined script for seamless integration of Discord account
 
 **/auth**
 
-![/auth](https://media.discordapp.net/attachments/1109145801701199883/1221486024643837962/image.png?ex=6612c082&is=66004b82&hm=eb74700ff9269964f93f61fd55f253e09f662b6de5877cf036d8746bbd22e178&=&format=webp&quality=lossless&width=588&height=554)
+![/auth](https://i.hizliresim.com/j90mimi.png)
 
 **/unauth**
 
-![/unauth](https://cdn.discordapp.com/attachments/1109145801701199883/1221486441276637335/image.png?ex=6612c0e5&is=66004be5&hm=d24bdf73c25b7b583c86235b7f948c18a9de3224d92a8f5af63a8dc32e543577&)
+![/unauth](https://i.hizliresim.com/58f1wmy.png)
 
 **/info**
 
-![/info](https://cdn.discordapp.com/attachments/1109145801701199883/1221488409017712690/command.png?ex=6612c2ba&is=66004dba&hm=c3e3125a585abb86d312dc702be1add59415531b4169af7133eb68ee0f342620&)
+![/info](https://i.hizliresim.com/74xsnfz.png)
 
 
 ## Installation
